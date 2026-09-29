@@ -1,0 +1,6 @@
+{
+  "name": "Formation IA Complète — ADN Studio Numérique",
+  "description": "Apprends à créer avec l'IA et transforme tes compétences en revenus depuis ton smartphone. Formation 100% pratique pour débutants en Afrique francophone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

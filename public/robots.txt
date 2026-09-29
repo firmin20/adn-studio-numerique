@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adn-studio-numerique.vercel.app/sitemap.xml
